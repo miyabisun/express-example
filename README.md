@@ -9,3 +9,5 @@ $ npm install
 
 $ node server.js
 ```
+
+open [http://localhost:3001](http://localhost:3001)
