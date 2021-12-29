@@ -1,7 +1,7 @@
 # Installation & Usage
 
 ```bash
-$ git clone 
+$ git clone https://github.com/miyabisun/express-example.git
 
 $ cd express-example
 
